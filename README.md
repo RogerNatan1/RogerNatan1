@@ -65,7 +65,12 @@ Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas na FAETE
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RogerNatan1/RogerNatan1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RogerNatan1/RogerNatan1/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RogerNatan1/RogerNatan1/output/github-contribution-grid-snake.svg">
+</picture>
 
 
