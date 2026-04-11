@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas na FAETERJ e um entusiasta de tecnologia. Tenho como objetivo atuar no desenvolvimento Fullstack, aplicando e aprimorando meus conhecimentos tanto no Backend quanto no Frontend.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FAETERJ e um entusiasta de tecnologia. Tenho como objetivo atuar no desenvolvimento Fullstack, aplicando e aprimorando meus conhecimentos tanto no Backend quanto no Frontend.
 
 
 ---
